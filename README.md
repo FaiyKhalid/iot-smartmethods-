@@ -5,3 +5,10 @@
 ### 1.1  Design and simulate control interface of robotic arm using ([html](https://github.com/FaiyKhalid/iot-smartmethods-/blob/main/index.html)+[css ](https://github.com/FaiyKhalid/iot-smartmethods-/blob/main/master.css)+[js ](https://github.com/FaiyKhalid/iot-smartmethods-/blob/main/main.js)) programming languages 
 ### 1.2 Create database [Done ](https://github.com/FaiyKhalid/iot-smartmethods-/blob/main/Control.php)
 
+
+## Second Task 
+### 2.1  control panel interface for the robot arm compact with control panel of the base using these ([html]()+[css ]()+[js ]()) programming languages 
+### 2.2 Database to store directions [Done ]()
+
+
+
