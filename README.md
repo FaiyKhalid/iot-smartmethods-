@@ -7,7 +7,7 @@
 
 
 ## Second Task 
-### 2.1  control panel interface for the robot arm compact with control panel of the base using these ([html]()+[css ]()+[js ]()) programming languages 
+### 2.1  control panel interface for the robot arm compact with control panel of the base using these ([html](https://github.com/FaiyKhalid/iot-smartmethods-/blob/main/index2.html)+[css ](https://github.com/FaiyKhalid/iot-smartmethods-/blob/main/master2.css)+[js ](https://github.com/FaiyKhalid/iot-smartmethods-/blob/main/main2.js)) programming languages 
 ### 2.2 Database to store directions [Done ]()
 
 
